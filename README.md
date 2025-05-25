@@ -1,20 +1,20 @@
 ### 👋 Hey there, I'm Bhumika Sharma!
 
-A curious mind and code enthusiast pursuing B.Tech in Computer Science & Engineering — passionate about crafting Android apps that are not just functional, but smart.
+A curious mind and code enthusiast pursuing BTech in Computer Science & Engineering passionate about crafting Android apps that are not just functional, but smart.
 
 📱 I specialize in:
 - Building intuitive Android apps using **Java**, **Kotlin**, and **Jetpack Compose**
 - Integrating real-time data with **Firebase**, **Google Fit API**, and **WebRTC**
 - Following clean architecture patterns like **MVVM** for scalable, maintainable code
 
-🧠 Lately, I’ve been exploring how to make apps *smarter* — experimenting with **AI-powered features** like:
+🧠 Lately, I’ve been exploring how to make apps *smarter* experimenting with **AI powered features** like:
 - Personalized fitness recommendations  
 - Intelligent data insights and predictions  
 - Context-aware user interactions
 
-🚀 Currently diving deeper into **Jetpack libraries**, **Hilt**, and **CI/CD** workflows — with a goal to bring more automation, intelligence, and polish to every app I build.
+🚀 Currently diving deeper into **Jetpack libraries**, **Hilt**, and **CI/CD** workflows with a goal to bring more automation, intelligence, and polish to every app I build.
 
-Let’s build something awesome — smart, seamless, and human-centered. 🚀
+Let’s build something awesome smart, seamless, and human centered. 🚀
 
 
 ---
