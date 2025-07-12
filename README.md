@@ -4,7 +4,7 @@ A curious mind and code enthusiast pursuing BTech in Computer Science & Engineer
 
 📱 I specialize in:
 - Building intuitive Android apps using **Java**, **Kotlin**, and **Jetpack Compose**
-- Integrating real-time data with **Firebase**, **Google Fit API**, and ** Agora WebRTC**
+- Integrating real-time data with **Firebase**, **Google Fit API**, and **Agora WebRTC**
 - Following clean architecture patterns like **MVVM** for scalable, maintainable code
 
 🧠 Lately, I’ve been exploring how to make apps *smarter* experimenting with **AI powered features** like:
